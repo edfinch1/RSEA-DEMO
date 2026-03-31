@@ -1,7 +1,8 @@
-openai>=1.50.0
-pymupdf
-pydantic
-fpdf
-python-dotenv
-streamlit
-pandas
+streamlit==1.45.1
+instructor==1.7.2
+openai==1.68.2
+pydantic==2.11.1
+pdfplumber==0.11.6
+pandas==2.2.3
+fpdf2==2.8.7
+python-dotenv==1.0.1
