@@ -1,0 +1,7 @@
+openai>=1.50.0
+pymupdf
+pydantic
+fpdf
+python-dotenv
+streamlit
+pandas
